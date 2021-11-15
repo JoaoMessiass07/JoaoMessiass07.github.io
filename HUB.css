@@ -58,6 +58,12 @@ li:hover {
 	background-color: grey;
 }
 
+li:active {
+	cursor: pointer;
+	opacity: 0.8;
+	background-color: darkgrey;
+}
+
 .lol:hover {
 	cursor: pointer;
 	opacity: 0.8;
