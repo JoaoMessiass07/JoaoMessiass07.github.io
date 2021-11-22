@@ -44,6 +44,7 @@ p {
 nav, ul {
 	display: flex;
 	flex-direction: row;
+	color: white;
 }
 
 nav li {
@@ -51,6 +52,11 @@ nav li {
 	font-size: 20px;
 	margin-left: 40px;
 	margin-right: 20px;
+	text-decoration: none;
+}
+
+nav a {
+	color: white;
 	text-decoration: none;
 }
 

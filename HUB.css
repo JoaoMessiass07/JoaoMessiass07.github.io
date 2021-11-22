@@ -43,6 +43,7 @@ p {
 nav, ul {
 	display: flex;
 	flex-direction: row;
+	color: white;
 }
 
 li {
@@ -113,6 +114,10 @@ h2 {
 	height:250px;
 	text-align: center;
 	font-size: 25px;
+}
+
+#info a {
+	color: black;
 }
 
 .parte2 {
