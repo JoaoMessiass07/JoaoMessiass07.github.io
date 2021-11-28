@@ -15,15 +15,6 @@ ul {
 	padding: 0;
 }
 
-a {
-	text-decoration: none;
-	color: black;
-}
-
-li a {
-	text-decoration: none;
-}
-
 nav {
 	background-color: black;
 	padding: 0 20px;
@@ -95,7 +86,7 @@ nav li:hover {
 	padding: 0px; 
 	padding-top: 20px; 
 	padding-bottom: 20px;
-	height: 2850px;
+	height: 2169px;
 	box-shadow: 5px 10px 15px;
 }
 
@@ -106,9 +97,10 @@ nav li:hover {
 	margin-right: 60px;
 	width: 800px;
 	border: 3px solid white;
-	height: 2483px;
+	height: 1800px;
 	padding: 10px;
 	margin-bottom: px;
+	padding-top: 20px;
 }
 
 .ad {	
@@ -119,11 +111,16 @@ nav li:hover {
 	margin-top: 15px;
 }
 
+a {
+	text-decoration: none;
+	color: black;
+}
+
 .busca {
 	width: 215px;
 	height: 500px;
 	border: 0x solid white;
-	margin-bottom: 1110px;
+	margin-bottom: 393px;
 	margin-top: 15px;
 
 }
@@ -135,13 +132,17 @@ nav li:hover {
 	margin-bottom: 25px;
 }
 
+.outros {
+	text-align: center;
+}
+
 .capa-dir {
 	width: 215px;
 	float: right;
 	border: 0px solid white;
 	margin-top: 5px;
 	margin-right: 20px;
-	height: 2507px;
+	height: 1850px;
 }
 
 .capa .abas {
@@ -160,11 +161,28 @@ nav li:hover {
 #fiff h2 {
 	color:  black;
 	background-color: white;
-	border: 1px solid white;
+	border: 0px solid white;
+	width: 207px;
 	margin-top: 0px; 
+	margin-left: -1px;
+	text-align: center;
 }
-.tip h2 {
+
+.caixadepesquisa {
+	margin-left: 0px;
+	margin-top: 12px;
+	margin-bottom: 25px;
+}
+
+.tip img {
+	margin-top: 20px;
 	margin-bottom: 15px;
+}
+
+.tip p {
+	color: black;
+	margin-top: 30px;
+	text-align: left;
 }
 
 .carrosel {
@@ -341,14 +359,30 @@ input {
 
 
 #principal {
-	border: 0px solid black;
+	border: px solid black;
 	float: left;
-	height: 2050px; 
+	height: 160px; 
 	width: 	800px;
 	text-align: center;
-	margin-top: 0px;
-	padding-left: -10px;
+	margin-top: -23px;
+	margin-bottom: 55px;
+	padding-left: 0px;
 	text-align: left;
+	padding-top:0px;
+}
+
+#principal h2 {
+	font-size: 45px;	
+	text-align: center;	
+	border-bottom: 0px solid black;
+	border-top: 0px solid black;
+	background-color: white;
+}
+
+#principal h4 {
+	font-size: 18px;
+	text-align: center;	
+	margin-top: -10px;
 }
 
 .logo {
@@ -401,6 +435,13 @@ h2 {
 	text-decoration: bold;
 }
 
+h5 {
+	text-align: right;
+	margin-bottom: 30px;
+	margin-top: -10px;
+	padding-right: 5px;
+}
+
 .tip h2 {
 	border-bottom: 5px solid darkgrey;
 }
@@ -422,10 +463,6 @@ h2 {
 	height: 115px;
 	margin-top: 25px;
 	margin-bottom: 15px;
-}
-
-#esq a {
-	text-decoration: none;
 }
 
 #fundo {
@@ -497,7 +534,6 @@ h2 {
 #esq {
 	float: left;
 	padding-left: 10px;
-	text-decoration: none;
 
 }
 

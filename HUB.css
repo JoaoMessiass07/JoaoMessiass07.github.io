@@ -2,7 +2,7 @@
 
 body {
 	margin: 0;
-	background-image: url(https://wallpapercave.com/wp/wp6430006.jpg);
+	background-color: #3B393A;
 	background-repeat: no-repeat;
 	background-size: 100%; 
 	background-attachment: fixed;
@@ -73,8 +73,6 @@ h2 {
 	color: white;font-size: 50px;
 }
 
-
-
 .ok {
 	width: 1100px;margin: 0 auto; 
 	background-color: black; 
@@ -83,7 +81,7 @@ h2 {
 	padding: 0px; 
 	padding-top: 20px; 
 	padding-bottom: 20px;
-	box-shadow: 50px 15px 1000px;
+	box-shadow: 5px 10px 15px;
 }
 
 #introducao {
@@ -118,6 +116,11 @@ h2 {
 
 #info a {
 	color: black;
+}
+
+a {
+	text-decoration: none;
+	color: white;
 }
 
 .parte2 {
@@ -309,6 +312,10 @@ h2 {
 	display: inline-block;
 	text-decoration: none;
 	text-align: left;
+}
+
+.btn-app a {
+	
 }
 
 .btn-app {
