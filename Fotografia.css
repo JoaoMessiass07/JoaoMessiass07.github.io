@@ -88,7 +88,8 @@ nav li:hover {
 }
 
 .ok {
-	width: 1100px;margin: 0 auto; 
+	width: 1100px;
+	margin: 0 auto; 
 	background-color: black; 
 	margin-top: 35px; 
 	margin-bottom: -40px; 
@@ -133,6 +134,7 @@ nav li:hover {
 	float: ;
 	border: 1px solid white;
 	margin-bottom: 25px;
+	text-align: center;
 }
 
 .capa-dir {
@@ -162,7 +164,59 @@ nav li:hover {
 	background-color: white;
 	border: 1px solid white;
 	margin-top: 0px; 
+	width: 205px;
+	margin-left: -1px;
 }
+
+.b1:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b2:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b3:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b4:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b5:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 195px;
+	margin-left: 10px;
+}
+
+.b6:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b7:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
 .tip h2 {
 	margin-bottom: 15px;
 }

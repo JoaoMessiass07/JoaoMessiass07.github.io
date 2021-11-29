@@ -120,7 +120,7 @@ nav li:hover {
 	width: 215px;
 	height: 500px;
 	border: 0x solid white;
-	margin-bottom: 393px;
+	margin-bottom: 440px;
 	margin-top: 15px;
 
 }
@@ -130,6 +130,56 @@ nav li:hover {
 	float: ;
 	border: 1px solid white;
 	margin-bottom: 25px;
+	text-align: center;
+}
+
+.b1:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b2:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b3:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b4:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b5:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 195px;
+	margin-left: 10px;
+}
+
+.b6:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
+}
+
+.b7:hover {
+	color: black;
+	background-color: #2c3338;
+	width: 180px;
+	margin-left: 17.5px;
 }
 
 .outros {
@@ -162,10 +212,12 @@ nav li:hover {
 	color:  black;
 	background-color: white;
 	border: 0px solid white;
-	width: 207px;
+	width: 205px;
 	margin-top: 0px; 
 	margin-left: -1px;
 	text-align: center;
+	width: 207px;
+	margin-left: -1px;
 }
 
 .caixadepesquisa {
