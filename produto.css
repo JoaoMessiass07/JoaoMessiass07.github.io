@@ -90,7 +90,8 @@ nav li:hover {
 }
 
 .ok {
-	width: 1100px;margin: 0 auto; 
+	width: 1100px;
+	margin: 0 auto; 
 	background-color: black; 
 	margin-top: 18px; 
 	margin-bottom: -40px; 
@@ -108,7 +109,7 @@ nav li:hover {
 	margin-right: 60px;
 	width: 800px;
 	border: 3px solid white;
-	height: 2483px;
+	height: 2540px;
 	padding: 10px;
 	margin-bottom: px;
 }
@@ -138,20 +139,43 @@ nav li:hover {
 	text-align: center;
 }
 
+.capa-dir {
+	width: 215px;
+	float: right;
+	border: 0px solid white;
+	margin-top: 5px;
+	margin-right: 20px;
+	height: 2507px;
+}
+
+.capa .abas {
+	margin-left: -13px;
+}
+.anuncio {
+	margin-top: 0px;
+}
+
+#fiff h3 {
+	color:  white;
+	board: 1px solid white;
+	padding: 5px;
+}
+
+#fiff h2 {
+	color:  black;
+	background-color: white;
+	border: 1px solid white;
+	margin-top: 0px; 
+	width: 205px;
+	margin-left: -1px;
+}
+
 .b1:hover {
 	color: black;
 	background-color: #2c3338;
 	width: 180px;
 	margin-left: 17.5px;
 }
-
-.b2 {
-	color: black;
-	background-color: #2c3338;
-	width: 180px;
-	margin-left: 17.5px;
-}
-
 
 .b2:hover {
 	color: black;
@@ -188,6 +212,13 @@ nav li:hover {
 	margin-left: 17.5px;
 }
 
+.b5 {
+	color: black;
+	background-color: #2c3338;
+	width: 195px;
+	margin-left: 10px;
+}
+
 .b7:hover {
 	color: black;
 	background-color: #2c3338;
@@ -195,36 +226,6 @@ nav li:hover {
 	margin-left: 17.5px;
 }
 
-.capa-dir {
-	width: 215px;
-	float: right;
-	border: 0px solid white;
-	margin-top: 5px;
-	margin-right: 20px;
-	height: 2507px;
-}
-
-.capa .abas {
-	margin-left: -13px;
-}
-.anuncio {
-	margin-top: 0px;
-}
-
-#fiff h3 {
-	color:  white;
-	board: 1px solid white;
-	padding: 5px;
-}
-
-#fiff h2 {
-	color:  black;
-	background-color: white;
-	border: 1px solid white;
-	margin-top: 0px; 
-	width: 205px;
-	margin-left: -1px;
-}
 .tip h2 {
 	margin-bottom: 15px;
 }

@@ -17,10 +17,12 @@ ul {
 
 nav {
 	background-color: black;
+	height: 69px;
 	padding: 0 20px;
 	justify-content: space-between;
 	align-items: center;
 	font-family: 'Roboto', sans-serif;
+	margin-top: 0px;
 }
 
 .lol {
@@ -76,7 +78,7 @@ h2 {
 .ok {
 	width: 1100px;margin: 0 auto; 
 	background-color: black; 
-	margin-top: 35px; 
+	margin-top: 18px; 
 	margin-bottom: -40px; 
 	padding: 0px; 
 	padding-top: 20px; 
@@ -136,7 +138,10 @@ a {
 }
 
 .parte2 background {
-		filter: blur(4px);
+		width: 2000px;
+		filter: blur(10px);
+		overflow: hidden;
+
 }
 
 .parte3 {

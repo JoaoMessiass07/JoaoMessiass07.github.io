@@ -26,10 +26,12 @@ li a {
 
 nav {
 	background-color: black;
+	height: 69px;
 	padding: 0 20px;
 	justify-content: space-between;
 	align-items: center;
 	font-family: 'Roboto', sans-serif;
+	margin-top: 0px;
 }
 
 .lol {
@@ -74,6 +76,7 @@ nav li:hover {
 	opacity: 0.8;
 	background-color: grey;
 	text-decoration: none;
+	transition: 0.6s;
 	
 }
 
@@ -90,7 +93,7 @@ nav li:hover {
 .ok {
 	width: 1100px;margin: 0 auto; 
 	background-color: black; 
-	margin-top: 35px; 
+	margin-top: 18px; 
 	margin-bottom: -40px; 
 	padding: 0px; 
 	padding-top: 20px; 

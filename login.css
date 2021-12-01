@@ -1,0 +1,87 @@
+@import url ('https://fonts.googleapis.com/css2? family = Roboto & display = swap');
+
+body {
+	margin: 0;
+	background-image: url(http://homemdepalavra.com.br/wp-content/uploads/2017/09/vista2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	background-attachment: all;
+	font-family: 'Roboto', sans-serif
+ ;
+}
+
+.loginn {
+	width: 350px;
+	height: 500px;
+	background-color: white;
+	margin-right: 600px;
+	margin-left: 600px;
+	margin-top: 100px;
+	text-align: center;
+	font-size: 23px;
+	box-shadow: 5px 5px 15px;
+}
+
+.loginn h2 {
+	padding-top: 45px;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-bottom: -25px;
+	color: white;
+}
+
+.loginn h4 {
+	font-size: 15px;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-bottom: 10px;
+
+}
+
+.fundo-loginn {
+	background-color: black;
+	height: 110px;
+}
+
+form input, form button {
+	font-size: 0,5em;
+	padding: 10px;
+	margin: -15px;
+	margin-top: 25px;
+
+
+}
+
+.google {
+	margin-top: 30px;
+}
+
+.facebook {
+	margin-top: 5px;
+}
+
+.botaoo {
+	border: 1px solid black;
+	width: 200px;
+	height: 35px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	margin-left: 75px;
+	margin-top: 30px;
+	background-color: black;
+	border-radius: 20px;
+}
+
+.botaoo a {
+	text-decoration: none;
+	color: white;
+}
+
+.google:hover {
+	cursor: pointer;
+}
+
+.facebook:hover {
+	cursor: pointer;
+}
