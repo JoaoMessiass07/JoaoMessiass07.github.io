@@ -225,6 +225,7 @@ nav li:hover {
 
 .titleee {
 	color: white;
+	margin-left: 125px;
 
 }
 
@@ -450,7 +451,7 @@ h1 {
 	padding-left: 7px;
 	border: 0px solid white;
 	text-align: center;
-	width: 818px;
+	width: 550px;
 	margin-left: 20px;
 	border-bottom: 3px solid white;
 	border-top: 3px solid white;
