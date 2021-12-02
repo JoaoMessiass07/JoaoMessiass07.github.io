@@ -1,0 +1,167 @@
+@import url ('https://fonts.googleapis.com/css2? family = Roboto & display = swap');
+
+body {
+	margin: 0;
+	background-image: url(fundo.png);
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	background-attachment: fixed;
+	font-family: 'Roboto', sans-serif
+ ;
+}
+
+.ok {
+	width: 1155px;
+	margin: 0 auto; 
+	background-color: #D2D9D7; 
+	margin-top: 50px; 
+	margin-bottom: 50px; 
+	padding: 10px; 
+	padding-top: 20px; 
+	padding-bottom: 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+	height: 1600px;
+	box-shadow: 5px 10px 15px;
+}
+
+.ok h2 {
+	font-size: 60px;
+	text-align: center;
+	border: 0px solid white;
+	margin-top: 10px;
+	color: black;
+	width: 
+	margin-bottom: 10px;
+}
+
+.privacidade {
+	width: 800px;
+	border: 0px solid black;
+	height: 350px;
+	margin-top: -25px;
+	background-color: #D2D9D7;
+	box-shadow: 5px 10px 15px;
+	color: grey;
+	padding-top: 15px;
+}
+
+.aparencia {
+	width: 800px;
+	border: 0px solid black;
+	height: 350px;
+	margin-top: -25px;
+	background-color: #D2D9D7;
+	box-shadow: 5px 10px 15px;
+	color: grey;
+	padding-top: 15px;
+}
+
+.acessibilidade {
+	width: 800px;
+	border: 0px solid black;
+	height: 350px;
+	margin-top: -25px;
+	background-color: #D2D9D7;
+	box-shadow: 5px 10px 15px;
+	color: grey;
+	padding-top: 15px;
+}
+
+.priv h3 {
+	color: black;
+	font-size: 25px;
+	background-color: #A8ADAC;
+	padding: 10px;
+	margin-top: 10px;
+		
+}
+
+.apar h3 {
+	color: black;
+	font-size: 25px;
+	background-color: #A8ADAC;
+	padding: 10px;
+	
+}
+
+.acess h3 {
+	color: black;
+	font-size: 25px;
+	background-color: #A8ADAC;
+	padding: 10px;
+	
+
+}
+
+.capa-dir {
+	float: left;
+	margin-left: 180px;
+}
+
+.sumario {
+	float: right;
+	border: px solid black;
+	padding: 15px;
+	margin-right: 0px;
+	margin-top: 25px;
+	background-color: #A8ADAC;
+	box-shadow: 5px 10px 15px;
+}
+
+.sumario li {
+	padding: 20px;
+	font-size: 20px;
+}
+
+.sumario h4 {
+	font-size: 25px;
+}
+
+.not {
+	border: px solid black;
+	height: 50px;
+	margin-top: 29px;
+	margin-bottom: 15px;
+	width: 770px;
+	background-color: #BABFBE ;
+	color: black;
+	padding: 15px;
+}
+
+.not:hover {
+	background-color: #9EA3A2;
+}
+
+.btn {
+	margin-top: 25px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: none;
+	padding: 20px;
+	padding-right: 100px;
+	padding-left: 100px;
+	cursor: pointer;
+	display: inline-block;
+	}
+
+.btn-white {
+	background-color: white;
+	box-shadow: 0 3px 3px #A9A9A9;
+	text-decoration: none;
+	color: black;
+	margin-left: 220px;
+	margin-top: 51px;
+}
+
+.btn-white:hover {
+	background-color: grey;
+	color: white;
+}
+
+.btn-white:active {
+	background-color: black;
+	color: white;
+}
